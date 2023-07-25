@@ -18,6 +18,9 @@
 #define S_LONG 2
 #define S_SHORT 1
 
+int putcar(char c);
+int puss(char *c);
+
 /**
  * struct fmt - Struct op
  *
