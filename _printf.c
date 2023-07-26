@@ -1,5 +1,5 @@
 #include "main.h"
-/*
+/**
  * _printf - print to  function
  * @format: format
  * Description: This function is a custom implementation of the printf function
