@@ -2,7 +2,7 @@
 /**
  * putcar - print a character
  * @c: char input
- * return: 1
+ * Return: 1
  */
 int putcar(char c)
 {
