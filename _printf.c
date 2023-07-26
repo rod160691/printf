@@ -1,8 +1,9 @@
 #include "main.h"
 /*
- * _printf - print function
- *
- * return: count char
+ * _printf - print to  function
+ * @format: format
+ * Description: This function is a custom implementation of the printf function
+ * Return: count char
  */
 int _printf(const char *format, ...)
 {
